@@ -1,32 +1,266 @@
 {
-    "status": "ok",
-    "totalResults": 2,
-    "articles": [
-      {
-        "source": {
-          "id": "espn-cric-info",
-          "name": "ESPN Cric Info"
-        },
-        "author": null,
-        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-        "publishedAt": "2020-04-27T11:41:47Z",
-        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+  "status": "ok",
+  "totalResults": 69,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
       },
-      {
-        "source": {
-          "id": "espn-cric-info",
-          "name": "ESPN Cric Info"
-        },
-        "author": null,
-        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-        "publishedAt": "2020-03-30T15:26:05Z",
-        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
-      }
-    ]
-  }
+      "author": "Moneycontrol News",
+      "title": "Jefferies raises target prices on Tata Steel, JSW Steel, Hindalco as global factory activity picks up - Moneycontrol",
+      "description": "While in the US, the manufacturing sector witnessed growth for the first time in 18 months, China's PMI expanded for the first time since September.",
+      "url": "https://www.moneycontrol.com/news/business/markets/jefferies-raises-target-prices-on-tata-steel-jsw-steel-hindalco-as-global-factory-activity-picks-up-12610901.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/08/Jefferies-770x433.jpg",
+      "publishedAt": "2024-04-10T03:30:13Z",
+      "content": "Jefferies is bullish on Indian metal companies amid the recent resurgence in the global manufacturing activity, including in the US and China, the world's two biggest economies. In a recent note, the… [+1939 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Moneycontrol News",
+      "title": "Paytm may slip after payments bank chief quits, BofA resumes coverage with 'underperform' rating - Moneycontrol",
+      "description": "Paytm parent One 97 Communications confirmed that it has terminated 'nearly all agreements' between the company and Paytm Payments Banks.",
+      "url": "https://www.moneycontrol.com/news/business/markets/paytm-may-slip-after-payments-bank-chief-quits-bofa-resumes-coverage-with-underperform-rating-12610851.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/07/Paytm-770x433.jpg",
+      "publishedAt": "2024-04-10T03:21:57Z",
+      "content": "Paytm shares fell nearly 3 percent on April 10 after Surinder Chawla stepped down as the Paytm Payments Bank managing director and chief executive citing personal reasons and to explore better career… [+2931 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Sunil Shankar Matkar",
+      "title": "Daily Voice: Vikas Khemani bullish on FY25. Here are his 2 must-haves - Moneycontrol",
+      "description": "Earnings growth is broad based, there are no macro headwinds and there will likely be a greater fund of flows after the elections, says the founder of Carnelian Asset Management &amp; Advisors",
+      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-vikas-khemani-bullish-on-fy25-here-are-his-two-must-haves-12610051.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/Vikas-Khemani-770x433.jpg",
+      "publishedAt": "2024-04-10T03:01:40Z",
+      "content": "Vikas Khemani, founder of Carnelian Asset Management &amp; Advisors, expects FY25 to be a good year for the market. Earnings growth is fairly broad based and stable and there are no macro headwinds, … [+5247 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Vaamanaa Sethi",
+      "title": "Stock market today: Day trading guide for Nifty 50 to Sensex, six stocks to buy or sell today — April 10 | Mint - Mint",
+      "description": "Day trading stocks: Experts have recommended six stocks to buy today — Apollo Hospital, Aurobindo Pharma, E I D-Parry (India), Mishra Dhatu Nigam, SBI Cards and Petronet LNG.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-day-trading-guide-for-nifty-50-to-sensex-six-stocks-to-buy-or-sell-today-april-10-11712681668572.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/09/1600x900/stock_1712688090808_1712688091053.jpg",
+      "publishedAt": "2024-04-10T02:53:22Z",
+      "content": "Indian market today: The Sensex and the Nifty 50, key benchmarks of the Indian stock market, closed lower on Tuesday, April 9, following a surge to fresh record highs, as global cues remained weak. T… [+8050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Nikita Prasad",
+      "title": "Buy or sell: Wockhardt to MOIL, Vaishali Parekh recommends three stocks to buy today — April 10 | Mint - Mint",
+      "description": "Buy or sell stocks: Vaishali Parekh has recommended three stocks to buy today —Wockhardt Ltd, Devyani International, and MOIL.",
+      "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-april-10-wockhardt-devyani-moil-11712682655060.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/09/1600x900/buy_1712682666515_1712682666738.jpg",
+      "publishedAt": "2024-04-10T02:25:57Z",
+      "content": "Buy or sell stocks for today: The 30-share BSE Sensex breached the historic 75,000-mark for the first time in the previous session, while the NSE Nifty 50 also hit its fresh lifetime high of 22,768.4… [+4057 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Nikita Prasad",
+      "title": "Day trading stocks to buy: Infosys to BEL — Anand Rathi expert recommends three shares to buy today | Mint - Mint",
+      "description": "Day trading stocks to buy: Anand Rathi expert has recommended three shares to buy today —Balrampur Chini Mills, Bharat Electronics Ltd, and Infosys",
+      "url": "https://www.livemint.com/market/stock-market-news/day-trading-stocks-to-buy-infosys-to-bel-anand-rathi-expert-recommends-three-shares-to-buy-today-11712682739907.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/09/1600x900/ganesh_1712682772734_1712682772879.jpg",
+      "publishedAt": "2024-04-10T01:51:07Z",
+      "content": "Day trading stocks for today: Indian stock market is thriving on bullish sentiments as both domestic equity benchmarks Nifty 50 and Sensex achieved lifetime highs in the previous session with the 30-… [+3958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Indian stock market: 7 key things that changed for market overnight - Gift Nifty, US Treasury yields to oil prices | Mint - Mint",
+      "description": "Indian stock market: Gift Nifty was trading around the 22,813 level, a premium of nearly 80 points from the Nifty futures’ previous close, indicating a gap-up start for the Indian stock market indices.",
+      "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-7-key-things-that-changed-for-market-overnight-gift-nifty-fallin-us-treasury-yields-to-oil-price-11712712786328.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/10/1600x900/im-944317_1712040884585_1712713204029.jpg",
+      "publishedAt": "2024-04-10T01:42:27Z",
+      "content": "Indian stock market: The domestic equity market is expected to open higher amid cautiousness on Wednesday racking mixed global market cues. Asian markets traded mostly lower while the US stocks ended… [+4076 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Auto Desk",
+      "title": "Indian auto industry poised to grow amidst mix of optimism and challenge: FADA - HT Auto",
+      "description": "Indian auto industry will see both challenges and opportunities in the near and long term, claimed FADA.",
+      "url": "https://auto.hindustantimes.com/auto/news/indian-auto-industry-poised-to-grow-amidst-mix-of-optimism-and-challenge-fada-41712654900774.html",
+      "urlToImage": "https://images.hindustantimes.com/auto/img/2024/04/10/1600x900/RNAIPL_manufacturing_plant_1711613684827_1712712581900.jpeg",
+      "publishedAt": "2024-04-10T01:32:17Z",
+      "content": "In an official statement, while revealing the retail sales numbers of each segment in the last financial year, FADA has stated that the excitement around new product launches, particularly electric v… [+2761 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ETMarkets.com",
+      "title": "Stocks in news: Axis Bank, Paytm, ABFRL, ICICI Pru Life, Shivalik Rasayan - The Economic Times",
+      "description": "Following the controversy surrounding misleading advertisements by Patanjali, Baba Ramdev and Acharya Balkrishna have submitted affidavits to the Supreme Court, offering  unconditional, unqualified  apologies.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-axis-bank-paytm-abfrl-icici-pru-life-shivalik-rasayan/articleshow/109177643.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-109177638,width-1200,height-630,imgsize-605584,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2024-04-10T00:39:47Z",
+      "content": "Domestic markets scaled new highs on Tuesday even though some profit booking was seen at higher levels. In today's trade, shares of Axis Bank, Paytm, ABFRL, ICICI Pru Life, Shivalik Rasayan will be i… [+1245 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Electoral bonds worth 103 crores : 20 firms bought electoral bonds within 3 years of incorporation, despite 3-year rule - The Hindu",
+      "description": null,
+      "url": "https://www.thehindu.com/data/at-least-20-firms-bought-electoral-bonds-within-3-years-of-incorporation-a-punishable-offence-data/article68047917.ece",
+      "urlToImage": null,
+      "publishedAt": "2024-04-10T00:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBCTV18"
+      },
+      "author": "Hormaz Fatakia",
+      "title": "Paytm Share Price: Domestic, foreign funds raise stake even as stock falls 37% in March quarter - CNBCTV18",
+      "description": "Nippon Mutual Funds and Mirae Mutual Funds, both existing shareholders of Paytm, have increased their stake during the March quarter.S",
+      "url": "https://www.cnbctv18.com/market/paytm-share-price-domestic-foreign-funds-increase-stake-march-quarter-payments-bank-19394619.htm",
+      "urlToImage": "https://images.cnbctv18.com/uploads/2022/12/Paytm.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2024-04-10T00:19:53Z",
+      "content": "India's mutual funds now own a 6.15% stake in One97 Communications Ltd., parent company of payments aggregator Paytm, as per the company's latest shareholding pattern on BSE. They owned a 4.99% stake… [+2935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Hamsini Karthik",
+      "title": "Tesla in talks with Reliance to set up EV manufacturing arm in India - BusinessLine",
+      "description": "Tesla Reliance News: Tesla, US electric vehicles major is in talks with RIL for joint venture to set up manufacturing hub for electric vehicles in India.",
+      "url": "https://www.thehindubusinessline.com/companies/tesla-in-talks-with-reliance-industries-ril-to-set-up-local-manufacturing-arm-in-indiaarticleidece/article68047359.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/2aodsb/article68047414.ece/alternates/LANDSCAPE_1200/2024-03-18T190214Z_2091230589_RC2Q7T99XT5A_RTRMADP_3_USA-STOCKS-TESLA.JPG",
+      "publishedAt": "2024-04-09T23:34:52Z",
+      "content": "Tesla may be scouting for a local partner to set up its operations in India. Highly placed sources say the US electric vehicles major is in talks with Reliance Industries for a possible joint venture… [+2239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Aparna Deb",
+      "title": "Infosys Gains 2% As BofA Sees 18% Further Upside; See Target Price - News18",
+      "description": "The Infosys stock has declined 2% this year, so far, underperforming the Nifty IT index, which, too, has been marginally negative during the period",
+      "url": "https://www.news18.com/business/infosys-gains-2-as-bofa-sees-18-further-upside-see-target-price-8845119.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/10/infosys-q2-results-october-12-2023-image-2023-10-c192bff69a2fb9d2cc6126d50b61ef13-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2024-04-09T18:26:13Z",
+      "content": "Infosys emerged as the top Nifty gainer on April 9 morning, with the stock surging more than 2 per cent to Rs 1,509 after the BofA upgraded the IT services player to buy from neutral.\r\nThe new revise… [+1714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Microsoft.com"
+      },
+      "author": "Microsoft Source",
+      "title": "Microsoft to invest US$2.9 billion in AI and cloud infrastructure in Japan while boosting the nation's skills, research and cybersecurity - Microsoft Stories Asia - Microsoft",
+      "description": "Microsoft announces US$2.9 billion investment over the next two years to increase its hyperscale cloud computing and AI infrastructure in Japan.",
+      "url": "https://news.microsoft.com/apac/2024/04/10/microsoft-to-invest-us2-9-billion-in-ai-and-cloud-infrastructure-in-japan-while-boosting-the-nations-skills-research-and-cybersecurity/",
+      "urlToImage": "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2024/04/01.jpg.jpg",
+      "publishedAt": "2024-04-09T17:37:30Z",
+      "content": "Picture left to right: Fumio Kishida, Prime Minister of Japan; Brad Smith, Vice Chair and President, Microsoft; Suzanne P. Clark, President and CEO, US Chamber of Commerce; Rahm Emanuel, US Ambassado… [+10372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Nikita Prasad",
+      "title": "Oil prices ease for second day over Gaza ceasefire talks, Brent dips to $89: Analysts peg near-term range at $85-95/bbl | Mint - Mint",
+      "description": "Crude oil may still rise as analysts have warned that without an end to the conflict, there is an elevated risk that other countries, particularly Iran, could be drawn into the war.",
+      "url": "https://www.livemint.com/market/commodities/oil-price-pare-gains-ease-for-second-day-over-gaza-ceasefire-talks-brent-at-89bbl-11712680831017.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/09/1600x900/oil_1712680896854_1712680897164.jpg",
+      "publishedAt": "2024-04-09T16:57:21Z",
+      "content": "Oil prices dipped for a second straight day on Tuesday, April 9, dragged by talks for a ceasefire in Gaza, however losses were limited to less than a dollar a barrel as Egyptian and Qatari mediators … [+5509 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dsij.in"
+      },
+      "author": "Kiran Shroff",
+      "title": "Rs 33700 crore order book & DIIs increase stake: LIC-backed multibagger stock at Rs 71 in green as toll collection increases 30 per on YoY basis; details inside! - Dalal Street Investment Journal",
+      "description": "The stock gave multibagger returns of 188 per cent from its 52-week low of Rs 24.97 per share and a whopping 565 per cent in 3 years.",
+      "url": "https://www.dsij.in/dsijarticledetail/rs-33700-crore-order-book-diis-increase-stake-lic-backed-multibagger-stock-at-rs-71-in-green-as-toll-collection-increases-30-per-on-yoy-basis-details-inside-37536",
+      "urlToImage": "https://www.dsij.in/Portals/0/EasyDNNnews/37536/image_1419.jpg",
+      "publishedAt": "2024-04-09T16:32:15Z",
+      "content": "The stock gave multibagger returns of 188 per cent from its 52-week low of Rs 24.97 per share and a whopping 565 per cent in 3 years.\r\nThe Indian stock market ended the trading session in red, with t… [+2662 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "Ola Cabs’ international exit: Company to focus on India, leave these markets - Hindustan Times",
+      "description": "Ola has started informing users through notifications about the impending closure.",
+      "url": "https://www.hindustantimes.com/business/ola-cabs-international-exit-company-to-focus-on-india-leave-these-markets-101712679618299.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/09/1600x900/jhgfds_1652180078566_1712679767006.jpg",
+      "publishedAt": "2024-04-09T16:23:54Z",
+      "content": "Ola Cabs is set to exit all of its existing international markets- the UK, Australia and New Zealand by the end of this month. The ride-hailing major has started informing users through notifications… [+1537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Intc.com"
+      },
+      "author": null,
+      "title": "Intel Unleashes Enterprise AI with Gaudi 3, AI Open Systems Strategy and New Customer Wins - Investor Relations :: Intel Corporation (INTC)",
+      "description": null,
+      "url": "https://www.intc.com/news-events/press-releases/detail/1689/intel-unleashes-enterprise-ai-with-gaudi-3-ai-open-systems",
+      "urlToImage": "https://d1io3yog0oux5.cloudfront.net/_e0b722eef7c0269759e38846bc89c0fa/intel/db/878/6995/social_image_resized.jpg",
+      "publishedAt": "2024-04-09T15:35:00Z",
+      "content": ".slide\"\r\n data-cycle-pager=\".press-release-images .ss-cycle-pager\"\r\n data-cycle-pager-template=\"\"\r\n data-cycle-swipe=\"true\"\r\n data-cycle-next=\"&gt; .ss-cycle-next\"\r\n data-cycle-prev=\"&gt; .ss-cycle-p… [+20872 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Anand J",
+      "title": "Without Payments Bank, Paytm's UPI market share drops to 9%, lowest in four years - Moneycontrol",
+      "description": "NPCI started sharing UPI apps transaction volume and value from April 2020 and this is Paytm's lowest market share. The mobile payment app hit by the regulator's action has also seen its transaction value market share drop to 6.7 percent.",
+      "url": "https://www.moneycontrol.com/news/technology/without-payments-bank-paytms-upi-market-share-drops-to-9-lowest-in-four-years-12608751.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/02/Paytm-crisis-1-770x433.jpg",
+      "publishedAt": "2024-04-09T14:25:41Z",
+      "content": "One97 Communications Ltd (OCL), the parent company of Paytm app, has seen its unified payments interface (UPI) market share drop to nine percent in March, its lowest level in the last four years, acc… [+1894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Rituraj Baruah",
+      "title": "No more extension for solar project timelines, Centre exceeds bid target for FY24: Bhalla | Mint - Mint",
+      "description": "The Union secretary for the ministry of new and renewable energy announces end to extensions for solar projects except when absolutely necessary. Emphasis on stringent measures for timeline extensions, citing availability of modules and decreasing prices.",
+      "url": "https://www.livemint.com/news/india/no-more-extension-for-solar-project-timelines-centre-exceeds-bid-target-for-fy24-bhalla-11712664408861.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/09/1600x900/Bhupinder_Bhalla_1712671979542_1712671998581.jpeg",
+      "publishedAt": "2024-04-09T14:15:43Z",
+      "content": "NEW DELHI : Government is looking at putting an end to the practice of giving extensions on timelines for completion of solar power projects in a bid to achieve its ambitious target of 500 GW non-fos… [+4439 chars]"
+    }
+  ]
+}
